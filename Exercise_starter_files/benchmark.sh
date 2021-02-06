@@ -4,13 +4,13 @@
 # Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
 # Licensed to The Apache Software Foundation, http://www.apache.org/
 #
-# Benchmarking 8530a665-66f3-49c8-a953-b82a2d312917.eastus.azurecontainer.io (be patient)...INFO: POST header ==
+# Benchmarking 142838aa-d9fa-4673-9619-ab609749cfac.southcentralus.azurecontainer.io (be patient)...INFO: POST header ==
 # ---
 # POST /score HTTP/1.0
 # Content-length: 812
 # Content-type: application/json
-# Authorization: Bearer Agb3D23IygXXXXXXXXXXXXXXXXXXXXXXXXX
-# Host: 8530a665-66f3-49c8-a953-b82a2d312917.eastus.azurecontainer.io
+# Authorization: Bearer Z2EDUkbQYeRVCuqqnCPQmaHDq73wPBVW
+# Host: 142838aa-d9fa-4673-9619-ab609749cfac.southcentralus.azurecontainer.io
 # User-Agent: ApacheBench/2.3
 # Accept: */*
 #
@@ -70,4 +70,4 @@
 # Total:        114  160  28.0    172     199#
 
 
- ab -n 10 -v 4 -p data.json -T 'application/json' -H 'Authorization: Bearer REPLACE_WITH_KEY' http://REPLACE_WITH_API_URL/score
+ ab -n 10 -v 4 -p data.json -T 'application/json' -H 'Authorization: Bearer Z2EDUkbQYeRVCuqqnCPQmaHDq73wPBVW' http://142838aa-d9fa-4673-9619-ab609749cfac.southcentralus.azurecontainer.io/score
