@@ -6,7 +6,7 @@ The project focuses on creating a workflow of a machine learning ecosystem and t
 
 ## Architectural Diagram
 
-![Architecture](./images/arch.png "Architecture")
+![Architecture](./images/arch.PNG "Architecture")
 
 ## Key Steps
 
@@ -16,53 +16,53 @@ The project focuses on creating a workflow of a machine learning ecosystem and t
 
 2. Create a pipeline and a run with bank-marketing-dataset
 
-![Machine Learning Pipeline with dataset](./images/dataset-with-aml.png "ML Pipeline")
+![Machine Learning Pipeline with dataset](./images/dataset-with-aml.PNG "ML Pipeline")
 
 3. After Completion of pipeline extract best model
 
-![Model Extraction](./images/completed_run_best_model.png "Model Extraction")
+![Model Extraction](./images/completed_run_best_model.PNG "Model Extraction")
 
 4. Deploy best model and get endpoints along with enabling insights
 
-![Model Deployment](./images/app_insights.png "Model Deployment")
+![Model Deployment](./images/app_insights.PNG "Model Deployment")
 
 5. Publish Pipeline,Get endpoints and submit another run
 
-![Publishing Pipeline](./images/publish_pipeline.png "Publishing Pipeline")
+![Publishing Pipeline](./images/publish_pipeline.PNG "Publishing Pipeline")
 
 6. Submitting run via published pipeline endpoint
 
-![Submitting Run via published rest endpoint](./images/pipeline-submission.png "Submitting run")
+![Submitting Run via published rest endpoint](./images/pipeline-submission.PNG "Submitting run")
 
 7. Checking submitted runs on experiments
 
-![Checking Runs](./images/scheduled-runs.png "Cheking runs")
+![Checking Runs](./images/scheduled-runs.PNG "Cheking runs")
 
 8. Checking the completion in notebook
 
-![Checking completion](./images/run-steps.png "checking completion")
+![Checking completion](./images/run-steps.PNG "checking completion")
 
 9. Checking Pipeline Endpoints
 
-![Checking Endpoints](./images/pipeline-endpoint.png "Pipeline Endpoints")
+![Checking Endpoints](./images/pipeline-endpoint.PNG "Pipeline Endpoints")
 
 10. Creating Swagger doc to see api-endpoints and hit right away through it
 
-![Swagger](./images/swagger.png "swagger")
+![Swagger](./images/swagger.PNG "swagger")
 
 11. Finally running tests,benchmarks and checking logs on deployed-model api
 
 Endpoint Test
 
-![Endpoint test](./images/endpoint.png "endpoint test")
+![Endpoint test](./images/endpoint.PNG "endpoint test")
 
 Enabling logs
 
-![Logs](./images/logs.png "Longs")
+![Logs](./images/logs.PNG "Longs")
 
 Running Benchmarks
 
-![Benchmarks](./images/benchmark.png "benchmark")
+![Benchmarks](./images/benchmark.PNG "benchmark")
 
 ## Screen Recording
 
