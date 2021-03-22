@@ -46,21 +46,27 @@ The project focuses on creating a workflow of a machine learning ecosystem and t
 
 ![Checking Endpoints](./images/pipeline-endpoint.PNG "Pipeline Endpoints")
 
-10. Creating Swagger doc to see api-endpoints and hit right away through it
+10. Checking Active Pipeline Endpoints
+    ![Checking Active Pipeline](./images/active_pipeline.PNG "Active Pipeline")
+
+11. Checking Scheduled Runs made via pipeline endpoint
+    ![Checking Scheduled Runs](./images/scheduled-runs_happening.PNG "Scheduled runs via pipeline")
+
+12. Creating Swagger doc to see api-endpoints and hit right away through it
 
 ![Swagger](./images/swagger.PNG "swagger")
 
-11. Finally running tests,benchmarks and checking logs on deployed-model api
+13. Finally running tests,benchmarks and checking logs on deployed-model api
 
-Endpoint Test
+14. Endpoint Test
 
 ![Endpoint test](./images/endpoint.PNG "endpoint test")
 
-Enabling logs
+15. Enabling logs
 
 ![Logs](./images/logs.PNG "Longs")
 
-Running Benchmarks
+16. Running Benchmarks
 
 ![Benchmarks](./images/benchmark.PNG "benchmark")
 
