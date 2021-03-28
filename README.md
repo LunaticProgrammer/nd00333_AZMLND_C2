@@ -47,7 +47,7 @@ The project focuses on creating a workflow of a machine learning ecosystem and t
 ![Checking Endpoints](./images/pipeline-endpoint.PNG "Pipeline Endpoints")
 
 10. Checking Active Pipeline Endpoints
-    ![Checking Active Pipeline](./images/active_pipeline.PNG "Active Pipeline")
+    ![Checking Active Pipeline](./images/active_pipeline_sc.PNG "Active Pipeline")
 
 11. Checking Scheduled Runs made via pipeline endpoint
     ![Checking Scheduled Runs](./images/scheduled-runs_happening.PNG "Scheduled runs via pipeline")
