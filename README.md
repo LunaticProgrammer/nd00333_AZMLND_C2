@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The project focuses on creating a workflow of a machine learning ecosystem and then operationalizing it to make the process of re-training, publishing endpoints and troubleshooting easier.
+The project focuses on creating a workflow of a machine learning ecosystem and then operationalizing it to make the process of re-training, publishing endpoints and troubleshooting easier along with deploying the model as a service, and consume the endpoints of the service by making predictions.
 
 ## Architectural Diagram
 
@@ -74,8 +74,9 @@ The project focuses on creating a workflow of a machine learning ecosystem and t
 
 [![Screen recording](https://i9.ytimg.com/vi/6SiwI0KuwJk/mq3.jpg?sqp=CNTJmoEG&rs=AOn4CLB_hHMs9LD1A2lXQW96TNmaR6Rr-A)](https://youtu.be/6SiwI0KuwJk)
 
-## Standout Suggestions
+## Future Improvement Suggestions
 
 1. Accuracy can be improved by solving the class-imbalance issue of the dataset used.
 2. Number of cross-validations can be increased for better results.
 3. Using more powerful tools like Deep-learning can definitely lead to better performance.
+4. Dataset may contain some non-realworld data or outdated ones which could be changed or removed to make the trained model do more accurate predictions.
