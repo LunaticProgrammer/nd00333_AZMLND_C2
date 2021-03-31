@@ -10,63 +10,63 @@ The project focuses on creating a workflow of a machine learning ecosystem and t
 
 ## Key Steps
 
-1. Add Dataset
+1. <B>Add Dataset</B>
 
 ![Dataset Register](./images/dataset-snapshot.PNG "Dataset Registration")
 
-2. Create a pipeline and a run with bank-marketing-dataset
+2.<B>Create a pipeline and a run with bank-marketing-dataset </B>
 
 ![Machine Learning Pipeline with dataset](./images/dataset-with-aml.PNG "ML Pipeline")
 
-3. After Completion of pipeline extract best model
+3. <B>After Completion of pipeline extract best model</B>
 
 ![Model Extraction](./images/completed_run_best_model.PNG "Model Extraction")
 
-4. Deploy best model and get endpoints along with enabling insights
+4. <B>We choose the best model for deployment and enable "Authentication" while deploying the model using Azure Container Instance (ACI). The executed code in logs.py enables Application Insights. "Application Insights enabled" is disabled before executing logs.py.</B>
 
 ![Model Deployment](./images/app_insights.PNG "Model Deployment")
 
-5. Publish Pipeline,Get endpoints and submit another run
+5. <B>Publish Pipeline,Get endpoints and submit another run</B>
 
 ![Publishing Pipeline](./images/publish_pipeline.PNG "Publishing Pipeline")
 
-6. Submitting run via published pipeline endpoint
+6.<B> Submitting run via published pipeline endpoint </B>
 
 ![Submitting Run via published rest endpoint](./images/pipeline-submission.PNG "Submitting run")
 
-7. Checking submitted runs on experiments
+7.<B> Checking submitted runs on experiments </B>
 
 ![Checking Runs](./images/scheduled-runs.PNG "Cheking runs")
 
-8. Checking the completion in notebook
+8. <B>Checking the completion in notebook </B>
 
 ![Checking completion](./images/run-steps.PNG "checking completion")
 
-9. Checking Pipeline Endpoints
+9. <B>Checking Pipeline Endpoints </B>
 
 ![Checking Endpoints](./images/pipeline-endpoint.PNG "Pipeline Endpoints")
 
-10. Checking Active Pipeline Endpoints
-    ![Checking Active Pipeline](./images/active_pipeline_sc.PNG "Active Pipeline")
+10.<B> Checking Active Pipeline Endpoints </B>
+![Checking Active Pipeline](./images/active_pipeline_sc.PNG "Active Pipeline")
 
-11. Checking Scheduled Runs made via pipeline endpoint
-    ![Checking Scheduled Runs](./images/scheduled-runs_happening.PNG "Scheduled runs via pipeline")
+11.<B> Checking Scheduled Runs made via pipeline endpoint </B>
+![Checking Scheduled Runs](./images/scheduled-runs_happening.PNG "Scheduled runs via pipeline")
 
-12. Creating Swagger doc to see api-endpoints and hit right away through it
+12. <B>Creating Swagger doc to see api-endpoints and hit right away through it </B>
 
 ![Swagger](./images/swagger.PNG "swagger")
 
-13. Finally running tests,benchmarks and checking logs on deployed-model api
+13.<B> Finally running tests,benchmarks and checking logs on deployed-model api </B>
 
-14. Endpoint Test
+14.<B> Endpoint Test </B>
 
 ![Endpoint test](./images/endpoint.PNG "endpoint test")
 
-15. Enabling logs
+15.<B> Enabling logs </B>
 
 ![Logs](./images/logs.PNG "Longs")
 
-16. Running Benchmarks
+16.<B> Running Benchmarks </B>
 
 ![Benchmarks](./images/benchmark.PNG "benchmark")
 
